@@ -6,6 +6,7 @@ Language Features:
 
 Compiler Features:
 * JSON-AST: Added selector field for errors and events.
+ * Peephole Optimizer: Optimize comparisons and double jumps in front of conditional jumps.
 
 Bugfixes:
 
